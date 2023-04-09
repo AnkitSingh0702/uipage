@@ -13,7 +13,7 @@ export default function Navbar() {
 
         <div className="  w-full md:block md:w-auto" id="navbar-default">
          
-        <div className="font-medium flex flex-row p-4 gap-16 ">
+        <div className="font-medium flex flex-row p-4 gap-[4.5rem] ">
 
         <div>
           <a  className="block  py-2 text-slate-300 cursor-pointer bg-no-repeat w-fit duration-500 ease-in-out bg-[0_100%] [background-size:0_2px] border-b-0 bg-gradient-to-r from-white to-white hover:[background-size:100%_2px]">Products</a>
